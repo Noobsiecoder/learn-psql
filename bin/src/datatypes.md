@@ -51,3 +51,9 @@ CREATE TYPE days AS ENUM("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun" );
 ### JSON Data Type
 
 ![json_image](../img/json_data_type.png)
+
+---
+
+## Image source
+
+[Tutorialspoint Official website](https://www.tutorialspoint.com/)
