@@ -67,5 +67,5 @@ postgres=# \q
 
 ## 📑 Table of contents
 
-- [DataTypes](bin/src/datatypes.md)
+- [Datatypes](bin/src/datatypes.md)
 - [Commands](bin/src/commands.md)
