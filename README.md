@@ -67,5 +67,14 @@ postgres=# \q
 
 ## 📑 Table of contents
 
-- [Datatypes](bin/src/datatypes.md)
-- [Commands](bin/src/commands.md)
+1. [Datatypes](bin/src/datatypes.md)
+2. [Commands](bin/src/commands.md)
+3. [Schema](bin/src/schema.md)
+4. [Queries](bin/src/queries.md)
+
+## 📦 Miscellaneous
+[My TODO](bin/TODO.md)
+
+### 🧾 Source
+
+[PostgreSQL tutorialspoint](https://www.tutorialspoint.com/postgresql/index.htm)
