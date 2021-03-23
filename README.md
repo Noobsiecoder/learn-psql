@@ -73,6 +73,7 @@ postgres=# \q
 4. [Queries](bin/src/queries.md)
 5. [Operators](bin/src/operator.md)
 6. [Expressions](bin/src/expression.md)
+7. [Clauses](bin/src/clauses.md)
 
 ## 📦 Miscellaneous
 
