@@ -71,8 +71,11 @@ postgres=# \q
 2. [Commands](bin/src/commands.md)
 3. [Schema](bin/src/schema.md)
 4. [Queries](bin/src/queries.md)
+5. [Operators](bin/src/operator.md)
+6. [Expressions](bin/src/expression.md)
 
 ## 📦 Miscellaneous
+
 [My TODO](bin/TODO.md)
 
 ### 🧾 Source
