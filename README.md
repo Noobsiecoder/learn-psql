@@ -70,7 +70,7 @@ postgres=# \q
 1. [Datatypes](bin/src/datatypes.md)
 2. [Commands](bin/src/commands.md)
 3. [Schema](bin/src/schema.md)
-4. [Queries](bin/src/queries.md)
+4. [Queries](bin/src/query.md)
 5. [Operators](bin/src/operator.md)
 6. [Expressions](bin/src/expression.md)
 7. [Clauses](bin/src/clauses.md)
