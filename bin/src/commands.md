@@ -7,32 +7,32 @@
 
 1. Create :
 
-```postgres
-postgres=# createdb <options> <db_name>
-```
+   ```postgres
+   postgres=# createdb <options> <db_name>
+   ```
 
 2. Select :
 
-```postgres
-postgres=# \c <database_name>
-```
+   ```postgres
+   postgres=# \c <database_name>
+   ```
 
 3. Drop
 
-```postgres
-postgres=# dropdb <options> <database_name>
-```
+   ```postgres
+   postgres=# dropdb <options> <database_name>
+   ```
 
 ## Table commands
 
 1. Select :
 
-```postgres
-postgres=# \c <table_name>
-```
+   ```postgres
+   postgres=# \c <table_name>
+   ```
 
 2. Describe :
 
-```postgres
-postgres=# \d <table_name>
-```
+   ```postgres
+   postgres=# \d <table_name>
+   ```

@@ -13,15 +13,15 @@
 - One can insert a single row at a time or several rows as a result of a query.
 - Syntax :
 
-```postgresql
-INSERT INTO <table_name> (col[1], col[2], ...col[N]) VALUES (val[1], val[2],...val[N]);
-```
+  ```postgresql
+  INSERT INTO <table_name> (col[1], col[2], ...col[N]) VALUES (val[1], val[2],...val[N]);
+  ```
 
 - if we add for all columns, we needn't specify the column :
 
-```postgresql
-INSERT INTO <table_name> VALUES (val[1], val[2],...val[N]);
-```
+  ```postgresql
+  INSERT INTO <table_name> VALUES (val[1], val[2],...val[N]);
+  ```
 
 ### SELECT command
 
@@ -29,15 +29,15 @@ INSERT INTO <table_name> VALUES (val[1], val[2],...val[N]);
 - These result tables are called **result-sets**.
 - Syntax :
 
-```postgresql
-SELECT col[1], col[2], col[N] FROM <table_name>;
-```
+  ```postgresql
+  SELECT col[1], col[2], col[N] FROM <table_name>;
+  ```
 
 - For selecting all columns from the table :
 
-```postgresql
-SELECT * FROM <table_name>;
-```
+  ```postgresql
+  SELECT * FROM <table_name>;
+  ```
 
 ### UPDATE command
 
@@ -46,11 +46,11 @@ SELECT * FROM <table_name>;
 - Otherwise, all the rows would be updated.
 - Syntax :
 
-```postgresql
-UPDATE <table_name>
-SET col[1] = <rand_val>
-WHERE [condition];
-```
+  ```postgresql
+  UPDATE <table_name>
+  SET col[1] = <rand_val>
+  WHERE [condition];
+  ```
 
 ### DELETE command
 
@@ -59,7 +59,7 @@ WHERE [condition];
 - Otherwise, all the records would be deleted.
 - Syntax :
 
-```postgresql
-DELETE FROM <table_name>
-WHERE [condition];
-```
+  ```postgresql
+  DELETE FROM <table_name>
+  WHERE [condition];
+  ```

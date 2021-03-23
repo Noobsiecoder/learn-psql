@@ -27,9 +27,9 @@ CREATE SCHEMA IF NOT EXISTS <schema_name>;
 2. Create _Table in Schema_ :
 
 ```postgresql
-CREATE TABLE IF NOT EXISTS <schema_name>.<table_name>(
-   NAME VARCHAR (20) NOT NULL,
-   AGE  INT          NOT NULL
+CREATE TABLE IF NOT EXISTS <schema_name>.<table_name (
+  NAME VARCHAR (20) NOT NULL,
+  AGE  INT          NOT NULL
 );
 ```
 

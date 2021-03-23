@@ -34,9 +34,9 @@
 - They are equivalent to the enum types supported in a number of programming languages.
 - For instance :
 
-```postgresql
-CREATE TYPE days AS ENUM("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun" );
-```
+  ```postgresql
+  CREATE TYPE days AS ENUM("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun" );
+  ```
 
 ### Geometric Data Type
 

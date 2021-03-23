@@ -30,15 +30,15 @@ WHERE [condition | expression];
 
 - If we run the following command :
 
-```postgresql
-SELECT COUNT(*) AS "RECORDS" FROM COMPANY;
-```
+  ```postgresql
+  SELECT COUNT(*) AS "RECORDS" FROM COMPANY;
+  ```
 
 - The result will be :
 
-```postgresql
- RECORDS
----------
-       7
-(1 row)
-```
+  ```postgresql
+  RECORDS
+  ---------
+        7
+  (1 row)
+  ```
