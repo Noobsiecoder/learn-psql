@@ -13,7 +13,7 @@
 - One can insert a single row at a time or several rows as a result of a query.
 - Syntax :
 
-  ```postgres
+  ```postgresql
   INSERT INTO <table_name> (col[1], col[2], ...col[N]) VALUES (val[1], val[2],...val[N]);
   ```
 
