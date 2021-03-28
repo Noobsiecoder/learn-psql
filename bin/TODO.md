@@ -13,19 +13,20 @@
   - [x] Expressions
   - [x] Clauses
 - Wednesday [24/03/2021] ⏰
-  - [ ] Distinct Keyword
-  - [ ] Create own database and manage using above functions
-- Thursday [25/03/2021] ⌚
-  - [ ] Constraint
+  - [x] Distinct Keyword
+  - [x] Create own database and manage using above functions
+- Sunday [28/03/2021] ⌚
+  - [x] Constraint
+- Monday [29/03/2021] ⏰
   - [ ] Joins
-- Friday [26/03/2021] ⏰
   - [ ] Union Clauses
   - [ ] `NULL` values
-- Saturday [27/03/2021]
+- Tuesday [30/03/2021] ⌚
   - [ ] Alias Syntax
   - [ ] Triggers
-- Sunday [28/03/2021]
+- Wednesday [31/03/2021] ⏰
   - [ ] Indexes
+  - [ ] Altering tables
 
 ### To be decided later
 
