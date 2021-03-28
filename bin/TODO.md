@@ -17,6 +17,9 @@
   - [x] Create own database and manage using above functions
 - Sunday [28/03/2021] ⌚
   - [x] Constraint
+
+## Week 2
+
 - Monday [29/03/2021] ⏰
   - [ ] Joins
   - [ ] Union Clauses
